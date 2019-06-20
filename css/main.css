@@ -24,6 +24,10 @@ body {
         float: left;
         padding: 40px;
         background-color: #1355A9;
+        background-image: url(../img/hill.png);
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        background-size: cover;
         position: absolute;
         top: 30px;
         bottom: 30px;
